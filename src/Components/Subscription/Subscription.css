@@ -1,0 +1,29 @@
+.sub-heading {
+    padding-left: 12rem;
+    padding-top: 1rem;
+  }
+
+  .sub-card-main {
+    margin-top: 2rem;
+  }
+  .sub-card {
+    margin-left: 9rem;
+    border: solid;
+    width: 250px;
+    height: 325px;
+  }
+  .sub-img1 {
+    padding-top: 1rem;
+    padding-left: 1rem;
+  }
+  .sub-price {
+    padding-left: 6rem;
+    padding-top: 1rem;
+  }
+  .sub-btn {
+    margin-left: 14rem;
+    margin-top: 1rem;
+    background-color: yellowgreen;
+    width: 6rem;
+    height: 1.5rem;
+  }
